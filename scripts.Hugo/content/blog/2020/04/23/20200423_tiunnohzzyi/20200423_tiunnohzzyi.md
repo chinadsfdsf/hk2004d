@@ -1,0 +1,47 @@
+---
+title : "少康戰情室:【完整版下集】磐石艦再增1確診計29人染疫 台灣最大群聚風暴持續中? 少康戰情室 20200423 "
+title2 : "【完整版下集】磐石艦再增1確診計29人染疫 台灣最大群聚風暴持續中? 少康戰情室 20200423 "
+info2 : "☑️智慧防疫！衛福部結合HTC合作開發聊天機器人👉https://bit.ly/38SzakU HTC旗下Deep Q團隊協同衛福部資訊單位、疾管署開發防疫追蹤系統，讓居家檢疫者可透過手機，主動上傳每日溫度量測紀錄、健康狀況等… 聊天機器人更會自動提供民眾正確且即時的防疫資訊，與政府單位同心協力、攜手防疫  關心新冠肺炎疫情➔https://bit.ly/2tXmOJU  少康看藍營改革➔https://bit.ly/2tYPaU8  少康戰情室精彩回顧➔https://bit.ly/37il9w0  ✔訂閱【少康戰情室】https://bit.ly/2sDiKcZ ●完整版HD集數快速找➔https://bit.ly/2Etctbf 鎖定TVBS 56台首播 ●按讚粉絲頁：http://bit.ly/2fMs1us "
+date:        2020-04-23T17:04:24-07:00
+author:
+ - youtube_少康戰情室
+tags:
+ - youtube
+ - 少康戰情室
+ - youtube_少康戰情室
+ - 2020_04
+ - 2020_0423
+ - 2020_0423_17
+categories:
+ - 2020_0423
+#icon:        "fas fa-lock-open"
+#resImgTeaser: teaserpics/wikipedia.org/emacs-jokes.png
+---
+
+{{< mydiv text="少康戰情室:☑️智慧防疫！衛福部結合HTC合作開發聊天機器人👉https://bit.ly/38SzakU HTC旗下Deep Q團隊協同衛福部資訊單位、疾管署開發防疫追蹤系統，讓居家檢疫者可透過手機，主動上傳每日溫度量測紀錄、健康狀況等… 聊天機器人更會自動提供民眾正確且即時的防疫資訊，與政府單位同心協力、攜手防疫  關心新冠肺炎疫情➔https://bit.ly/2tXmOJU  少康看藍營改革➔https://bit.ly/2tYPaU8  少康戰情室精彩回顧➔https://bit.ly/37il9w0  ✔訂閱【少康戰情室】https://bit.ly/2sDiKcZ ●完整版HD集數快速找➔https://bit.ly/2Etctbf 鎖定TVBS 56台首播 ●按讚粉絲頁：http://bit.ly/2fMs1us "
+>}}
+<br>
+
+
+{{< my2mp4withjpgdownload mp4="20200423_tiunnohzzyi.webm"
+>}}
+
+{{< my2jpgexist "xx1.jpg" >}}<br>
+{{< my2jpgexist "xx2.jpg" >}}<br>
+{{< my2jpgexist "xx3.jpg" >}}<br>
+
+
+
+{{< mydiv text="少康戰情室:【完整版下集】磐石艦再增1確診計29人染疫 台灣最大群聚風暴持續中? 少康戰情室 20200423 "
+>}}
+<br>
+
+{{< my2linktextonly link="https://www.youtube.com/watch?v=tIuNNoHZzYI"
+>}}
+
+
+<br>
+
+{{< my2mp4audiowithdownload mp4="aaa_1.m4a"    text="1" >}}
+{{< my2mp4audiowithdownload mp4="aaa_2.m4a"    text="2" >}}
+{{< my2buttoncopy2clip "music.xspf"        "blue"   "red"    " 单曲 "  "复制 VLC 播放器使用的链接：单曲" >}} {{< my2buttoncopy2clip "/all.xspf"         "green"  "black"  " 全部 "  "复制 VLC 播放器使用的链接：全部" >}} {{< my2buttoncopy2clip "music.m3u8"        "blue"   "red"    " M3U  "    "复制 M3U 播放器使用的链接：单曲" >}} {{< mybr2 >}} {{< my2buttoncopy2clip ""                  "green"  "black"  " 本页 "    "复制 本页的网址 " >}} {{< my2buttoncopy2clip "/"                 "black"  "red"    " 主站 "    "复制 主站的网址 " >}} {{< mybr2 >}} {{< my2buttongoto      "/hot/endothers/"   "blue"   "red"    " 月份"   "转到月份总目录" >}} {{< my2buttongoto      "/hot/alltags/"     "green"  "blue"   " 列表"   "转到文章总列表" >}} {{< my2buttongoto      "/hot/helpxspf/"    "green"  "blue"   " 播放器" "如何使用 VLC 播放器或者 IPTV 播放器的教程" >}} 
