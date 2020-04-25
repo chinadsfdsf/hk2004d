@@ -40,6 +40,12 @@ categories:
 {{< my2linktextonly link="https://www.youtube.com/watch?v=pFJCfWd0Ksg"
 >}}
 
+{{< my2mp4withjpgdownload mp4="20200424_lumfb3u9qes_en-001.mp4" nojpg="1" >}}
+{{< my2mp4withjpgdownload mp4="20200424_lumfb3u9qes_en-002.mp4" nojpg="1" >}}
+{{< my2mp4withjpgdownload mp4="20200424_lumfb3u9qes_en-003.mp4" nojpg="1" >}}
+{{< my2mp4withjpgdownload mp4="20200424_lumfb3u9qes_en-004.mp4" nojpg="1" >}}
+{{< my2mp4withjpgdownload mp4="20200424_lumfb3u9qes_en-005.mp4" nojpg="1" >}}
+
 
 <br>
 
